@@ -12,6 +12,8 @@ node_modules
 distateDev
 .idea
 
+build/*.map
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
