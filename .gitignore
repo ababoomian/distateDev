@@ -12,7 +12,7 @@ node_modules
 distateDev
 .idea
 
-build/*.map
+build/distate/static/js/*.map
 
 # Editor directories and files
 .vscode/*
